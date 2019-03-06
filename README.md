@@ -1,2 +1,2 @@
-# NodeRunnerAI
-Projet consistant à développer une intelligence artificielle pour un jeu inspiré de Lode Runner, un jeu de plateforme datant des années 80.
+# Colors Witch
+Jeu Inspiré de Color Switch comportant plusieurs niveaux dans lesquels le joueur tente d'atteindre le champignon en traversant des objets de la même couleur que sa bille.
